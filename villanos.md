@@ -2,3 +2,4 @@
 
 * Doctor Muerte
 * Cráneo rojo
+* Capitán America
